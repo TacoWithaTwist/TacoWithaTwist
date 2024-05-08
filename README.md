@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tacowithatwist&label=Profile%20views&color=0e75b6&style=flat" alt="tacowithatwist" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tacowithatwist" alt="tacowithatwist" /></a> </p>
 
 - 🔭 I’m currently working on [Meals-WebApp](https://github.com/TacoWithaTwist/Meals-WebApp)
 
