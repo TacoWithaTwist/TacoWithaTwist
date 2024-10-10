@@ -4,17 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tacowithatwist&label=Profile%20views&color=0e75b6&style=flat" alt="tacowithatwist" /> </p>
 
 
-- 🔭 I’m currently working on [Meals-WebApp](https://github.com/TacoWithaTwist/Meals-WebApp)
-
 - 🌱 I’m currently learning **APIs and Backend Dev.**
-
-- 💬 Ask me about **MongoDB, express, React, nodejs**
 
 - 📫 How to reach me **houssein.msallem@gmail.com**
 
 - 📄 Know about my experiences [https://app.enhancv.com/share/1efcd586/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/1efcd586/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
-- ⚡ Fun fact **I cook the best pasta in my town**
+- ⚡ Fun fact **I cook the best pasta in town**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
